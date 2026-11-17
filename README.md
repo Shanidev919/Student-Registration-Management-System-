@@ -4,7 +4,7 @@ A full-stack web application built with **ASP.NET Web Forms** and **C#** to regi
 
 ## 🌐 Live Demo
 The project is live and hosted on **MonsterASP.NET**.  
-👉 **View Live Application:** [student-registration-demo.runasp.net/StudentForm.aspx)
+👉 **View Live Application:** (student-registration-demo.runasp.net/StudentForm.aspx)
 
 ---
 

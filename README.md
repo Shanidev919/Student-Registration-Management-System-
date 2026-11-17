@@ -34,7 +34,7 @@ The project is live and hosted on **MonsterASP.NET**.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+  
    ```
 2. **Open in Visual Studio:**
    - Open the `.sln` (Solution) file in **Visual Studio**.
